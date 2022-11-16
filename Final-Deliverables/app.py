@@ -208,9 +208,9 @@ if st.sidebar.checkbox('View Prediction Model'):
 st.sidebar.subheader('Data Source')
 st.sidebar.info("[Kaggle : graduate-admissions](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)")
 st.sidebar.subheader('Author Credits')
-st.sidebar.info("[Eswaramoorty K](https://github.com/eswar-2001)\
-    \n [Krishnan S](https://github.com/skrishnan2001)\
-    \n [Rohith S](https://github.com/Rohith8ceg)\
-    \n [Vishnu Vasan R](https://github.com/vishnu-vasan)")
+st.sidebar.info("[ABIMANYU S](https://github.com/abimanyukali)\
+    \n [ARIVUMATHI R](https://github.com/arivumathir)\
+    \n [POOVARASAN R](https://github.com/flowerking22)\
+    \n [VIGNESH B](https://github.com/vigneshviknadhevan)")
 st.sidebar.subheader('Built with Streamlit')
 st.sidebar.info("https://www.streamlit.io/")
