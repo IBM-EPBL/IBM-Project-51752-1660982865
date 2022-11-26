@@ -3,7 +3,7 @@
   <br/>
    <h1>University Admit Eligibility Predictor</h1>
    <h3> 
-  Team Members: ABIMANYU S(Leader) , ARIVUMATHI R , POOVARASAN R , VIGNESH B</h3>
+  Team Members: ABIMANYU S , ARIVUMATHI R , POOVARASAN R , VIGNESH B</h3>
 </div>
 
 ### Abstract
